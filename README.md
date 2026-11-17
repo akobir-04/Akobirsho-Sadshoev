@@ -37,14 +37,23 @@ I specialize in building asynchronous backend infrastructure, integrating LLMs w
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak_JWT-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 
+### 💻 Featured Projects
+
+* **[Hotel Management System](https://github.com/YOUR_USERNAME/Hotel-Management-system)**
+  * Object-oriented system designed to manage room bookings, guest check-ins/check-outs, and billing operations.
+* **[Gym Management System](https://github.com/YOUR_USERNAME/gym-management-system)**
+  * Application for tracking member subscriptions, workout schedules, and facility access.
+* **eKhonish MCP Server** *(Commercial Internship @ Jurat)*
+  * Production Model Context Protocol server (FastMCP, SQLAlchemy 2.0 asyncio, Keycloak JWT) integrating LLM agents with a MySQL educational database across 12 RBAC-secured tools.
+
 ---
 
-### 📊 GitHub Stats
+### 📈 Contribution Graph
 
-![Akobirsho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akobirsho-Sadshoev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akobirsho-Sadshoev&layout=compact&theme=tokyonight&hide_border=true)
+[![Akobirsho's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
 
----
+
+
 
 ### 📫 Connect with Me
 
