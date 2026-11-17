@@ -48,10 +48,6 @@ I specialize in building asynchronous backend infrastructure, integrating LLMs w
 
 ---
 
-### 📈 Contribution Graph
-
-[![Akobirsho's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
-
 
 
 
